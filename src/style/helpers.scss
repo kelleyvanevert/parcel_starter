@@ -1,0 +1,13 @@
+@import "./config";
+
+.sans {
+  font-family: $font-family-sans-serif !important;
+}
+
+.mono {
+  font-family: $font-family-monospace !important;
+}
+
+.hf {
+  font-family: $headings-font-family !important;
+}
