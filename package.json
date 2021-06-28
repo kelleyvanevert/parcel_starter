@@ -43,7 +43,7 @@
     "common-tags": "^1.8.0",
     "d3-force": "^2.0.1",
     "lz-string": "^1.4.4",
-    "prismjs": "^1.19.0",
+    "prismjs": "^1.24.0",
     "react": "^16.0.0",
     "react-dom": "^15.0.0 || ^16.0.0",
     "react-hot-loader": "^4.12.19",
